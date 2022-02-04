@@ -1,15 +1,15 @@
 body {
-    background-color: #395B64;
+    background-color: #876445;
 }
 h1,h2,h3{
-    color: white;
+    color: #EEC373;
 }
 
 p {
-    color: darkgrey;
+    color: #F4DFBA;
 }
 hr {
-    border-color: silver;
+    border-color: #CA965C;
     border-style: dotted none none;
     border-width: 0.3em;
     width: 5%;
@@ -17,9 +17,9 @@ hr {
 
 
 td,th {
-    color: darkgrey;
+    color: #F4DFBA;
 }
 
 li {
-    color: darkgrey;
+    color: #F4DFBA;
 }
