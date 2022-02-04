@@ -1,0 +1,23 @@
+body {
+    background-color: #395B64;
+}
+h1,h2,h3{
+    color: white;
+}
+
+p {
+    color: darkgrey;
+}
+hr {
+    border-color: silver;
+    border-style: dotted none none;
+    border-width: 0.3em;
+    width: 5%;
+}
+td {
+    color: darkgrey;
+}
+
+li {
+    color: darkgrey;
+}
